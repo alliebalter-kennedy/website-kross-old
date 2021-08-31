@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Allie Balter-Kennedy
-image: assets/images/about/Balter_headshot.jpg
+image: assets/images/about/Balter_headshot
 signature: 
 ---
 
