@@ -105,7 +105,7 @@ skills:
 experience-title: Education
 experience:
 - {name: Bates College, icon: 'icon-1.png', date: '2014', organization: 'B.S., Geology'}
-- {name: University of Maine, icon: 'icon-2.png', date: '2018'', organization: 'M.S., Earth and Climate Sciences'}
+- {name: University of Maine, icon: 'icon-2.png', date: '2018', organization: 'M.S., Earth and Climate Sciences'}
 - {name: Columbia University, icon: 'icon-3.png', date: 'Aug 2018 - Present', organization: 'M.A., M.Phil, Ph.D. Candidate'}
 
 
