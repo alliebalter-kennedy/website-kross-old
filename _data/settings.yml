@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 
 logo: 
 author: themefisher
 description: this is meta description
@@ -38,12 +38,12 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Allie <br> PhD Candidate
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+#- {icon: "ti-facebook", link: "#"}
+#- {icon: "ti-instagram", link: "#"}
+#- {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -52,42 +52,41 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+I am a PhD Candidate at Lamont-Doherty Earth Observatory / Columbia University
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
 
 # About Page
 
-# Work Process Section
-work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+## Work Process Section
+#work-process:
+#  - title : "Research and Plan"
+#    icon : "assets/images/icons/plan.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#    
+#  - title : "Design and Develop"
+#    icon : "assets/images/icons/design.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#    
+#  - title : "Deliver"
+#    icon : "assets/images/icons/print.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#
+#
+## My Team Section
+#team:
+#  - title : "Jack Schenziwe"
+#    image : "assets/images/team/member-1.png"
+#    designation : "Project Manager"
+#    
+#  - title : "Julias Carlie"
+#    image : "assets/images/team/member-2.png"
+#    designation : "Web Developer"
+#    
+#  - title : "John Doe"
+#    image : "assets/images/team/member-3.png"
+#    designation : "Designer"
 
 
 #-------------------------------
@@ -95,57 +94,57 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: MATLAB, color: '#fdb157', value: '80%'}
+- {name: Python, color: '#9473e6', value: '10%'}
+- {name: Illustrator, color: '#bdecf6', value: '90%'}
+#- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Education
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Bates College, icon: 'icon-1.png', date: '2014', organization: 'B.S., Geology''}
+- {name: University of Maine, icon: 'icon-2.png', date: '2018'', organization: 'M.S., Earth and Climate Sciences'}
+- {name: Columbia University, icon: 'icon-3.png', date: 'Aug 2018 - Present', organization: 'M.A., M.Phil, Ph.D. Candidate'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Experience
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: High Mountain Institute, date: '2014-2015', organization: 'Math Teacher and Outdoor Educator'}
+- {name: WESTON Solutions, Inc, date: '2015-2016', organization: 'Assistant Geologist'}
+#- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+#- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
-services:
-- {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-
+#services-title: Services
+#services:
+#- {
+#    name: UI Design,
+#    icon: ti-palette,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: # Add true to select section
+#  }
+#- {
+#    name: UX Design,
+#    icon: ti-vector,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: true # Add true to select section
+#  }
+#- {
+#    name: Interaction Design,
+#    icon: ti-panel,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: # Add true to select section
+#  }
+#
 
 
 #-------------------------------
@@ -293,4 +292,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: abalter@ldeo.columbia.edu
